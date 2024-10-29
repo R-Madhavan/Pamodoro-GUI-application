@@ -59,6 +59,5 @@ The Pomodoro Technique is a time-management method that uses a timer to break do
 ├── main.py         # Main Python file with timer logic and UI setup
 └── tomato.png      # Icon used in the timer display
 ```
-
 Enjoy using the Pomodoro Timer to enhance your productivity!
-```
+
